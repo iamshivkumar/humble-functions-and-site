@@ -1,0 +1,21 @@
+{
+    "projectId": "6472f8e636a915c8dc64",
+    "projectName": "Humble",
+    "functions": [
+        {
+            "$id": "648546dc3cda9556962e",
+            "name": "notify",
+            "runtime": "dart-2.17",
+            "path": "functions/notify",
+            "entrypoint": "lib/main.dart",
+            "ignore": [
+                ".packages",
+                ".dart_tool"
+            ],
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
